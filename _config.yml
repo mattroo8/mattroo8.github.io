@@ -16,12 +16,12 @@
 title: Matt Rooney
 email: matthew.rooney8@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- My name is Matt and I'm a software developer!
+ My name is Matt and I'm a software developer living in Dublin, Ireland.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Mattroo8
 github_username:  mattroo8
-
+google_analytics: UA-112058725-1
 # Build settings
 markdown: kramdown
 theme: minima
