@@ -6,6 +6,9 @@ date:   2018-01-06 21:20:51 +0000
 categories: iOS
 ---
 
+![](/assets/images/schwifty.jpg)
+*Rick and Morty*
+
 At Infocare we have started using swift 4 in our iOS application Soteria. We felt that swift is stable enough for us to start using and so far it has been amazing. 
 
 I have been programming in objective-c since I joined Infocare nearly four years ago and it is so refreshing to use such a modern and convenient language that is swift.
