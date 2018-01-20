@@ -6,13 +6,13 @@ date:   2018-01-13 17:21:20 +0000
 categories: Personal
 ---
 
-It's January and that means...goal setting time!! After the Christmas break I was able to chill out and forget about my career and coding but now it's time to put my life back into gear and come up with some goals and objectives for the year ahead. This is a great way to get focused and get sh!t done. Ok so without further ado, here are my goals for 2018:
+It's January and that means...goal setting time!! After the Christmas break I was able to chill out and forget about my career and coding but now it's time to put my life back into gear and come up with some goals and objectives for the year ahead. This is a great way to get focused and get :shit: done. Ok so without further ado, here are my goals for 2018:
 
-1. Set goals...(wow! that was easy, one off the list so far).
-2. Complete a goal...(yes!! two goals down).
-3. Contribute to open source software.
-4. Create an iOS app that people will use.
-5. Improve my public speaking.
+- [x] Set goals...(wow! that was easy, one off the list so far :sunglasses:).
+- [x] Complete a goal...(yes!! two goals down).
+- [ ] Contribute to open source software.
+- [ ] Create an iOS app that people will use.
+- [ ] Improve my public speaking.
 
 OK, so the remaining goals are a bit vague. Lets go into some detail and make them [SMART](https://en.wikipedia.org/wiki/SMART_criteria) goals. SMART is an acronym for Specific, Measurable, Attainable, Realistic and Timed. I am going to concentrate on the S,M and T.
 
@@ -51,5 +51,5 @@ I will have presented at a swift meetup.
 #### **Timed**
 Have it done by September.
 
-So there we have it some goals for this year. Will I complete them?...hopefully but if I don't at least I can reflect on the year and see what went wrong. It will help me to adjust my goals going forward :)
+So there we have it some goals for this year. Will I complete them?...hopefully but if I don't at least I can reflect on the year and see what went wrong. It will help me to adjust my goals going forward :wink:
 
