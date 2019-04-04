@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trakserv Privacy Policy
-permalink: /trakser-privacy-policy/
+permalink: /trakserv-privacy-policy/
 ---
 
 ## Privacy Policy
