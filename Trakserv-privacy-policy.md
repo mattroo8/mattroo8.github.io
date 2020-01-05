@@ -6,7 +6,7 @@ permalink: /trakserv-privacy-policy/
 
 ## Privacy Policy
 
-Matt Rooney built the Trakserv app as a Free app. This SERVICE is provided by Matt Rooney at no cost and is intended for use as is.
+Matt Rooney built the Trakserv app and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
